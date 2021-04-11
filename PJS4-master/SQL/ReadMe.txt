@@ -1,4 +1,4 @@
-- Tout d'abord créer dans votre base de donnée, une base appelé "miap_bdd"
+- Tout d'abord créez dans votre base de données, une base appellée "miap_bdd"
 - Importez y le fichier miapsql
 Le fichier miapsql crée les tables.
 
